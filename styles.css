@@ -3,6 +3,7 @@ caption{
 	align-items: center;
 }
 table, th, td{
-	border: 1pxblack;
+	border: 1px solid black;
+	
 	background:yellow
 }
